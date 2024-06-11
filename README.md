@@ -2,7 +2,7 @@
 
 ## Website link:
 ```
-https://finalspd1.web.app/
+https://quizzapp-7bcf4.web.app/
 ```
 
 ### Admin Account for Testing
