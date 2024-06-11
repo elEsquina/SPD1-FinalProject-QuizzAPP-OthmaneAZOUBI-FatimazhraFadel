@@ -1,5 +1,16 @@
 # projetfinal
 
+## Website link:
+```
+https://finalspd1.web.app/
+```
+
+### Admin Account for Testing
+To test the admin functionalities, please use the following credentials:
+- **Email:** a.bentajer@gmail.com
+- **Password:** 123456
+
+
 ## Project setup
 ```
 npm install
@@ -92,8 +103,8 @@ Quizz Application is a web-based platform designed to provide users with an enga
 
 ### Admin Account for Testing
 To test the admin functionalities, please use the following credentials:
-- **Email:** admin@example.com
-- **Password:** adminpassword
+- **Email:** a.bentajer@gmail.com
+- **Password:** 123456
 
 ### Testing Process
 
