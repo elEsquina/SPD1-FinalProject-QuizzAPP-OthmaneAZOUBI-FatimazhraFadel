@@ -1,4 +1,4 @@
-# projetfinal
+# Quiz app final project
 
 ## Website link:
 ```
